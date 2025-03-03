@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-baseURL = 'mersad29.github.io'
-=======
 baseURL = 'https://mersad29.github.io'
->>>>>>> 5df161834a125200f35f6211e11f8a8da60024d6
+
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
